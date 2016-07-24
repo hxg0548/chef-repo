@@ -1,0 +1,6 @@
+{
+    "id" : "config",
+    "mysql_root_password" : "55f71afF",
+    "cmon_password" : "55f71afF",
+    "clustercontrol_api_token" : "e078c87925823a12eba1354e4c3096084a1b02da"
+}
